@@ -18,6 +18,8 @@ switch (a){
     case "4":
         fourth(txt, txt1, a, rand, b)
         break
+    default:
+        break
 }
 
 function first(a, txt) {
