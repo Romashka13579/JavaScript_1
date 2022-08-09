@@ -9,7 +9,7 @@
 //     calc = 2022 - a
 //     document.write("You were born in " + calc + "")
 // }
-
+//
 // var txt, a
 // txt = "Type a number:"
 // a = prompt(txt)
